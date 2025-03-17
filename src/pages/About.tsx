@@ -91,7 +91,7 @@ const About = () => {
     {
       icon: Target,
       title: 'Continuous Innovation',
-      description: 'We're committed to pushing the boundaries of what's possible with AI and development tools.'
+      description: "We're committed to pushing the boundaries of what's possible with AI and development tools."
     },
     {
       icon: Award,
