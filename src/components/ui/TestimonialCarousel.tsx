@@ -25,7 +25,7 @@ const TestimonialCarousel = () => {
       name: 'Alex Chen',
       role: 'CTO',
       company: 'TechForward',
-      content: 'Operarius has transformed our development process. We're shipping features twice as fast with half the bugs. The AI code suggestions are uncannily accurate.',
+      content: "Operarius has transformed our development process. We're shipping features twice as fast with half the bugs. The AI code suggestions are uncannily accurate.",
       rating: 5,
       avatar: 'https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?q=80&w=100&auto=format&fit=crop'
     },
@@ -34,7 +34,7 @@ const TestimonialCarousel = () => {
       name: 'Sarah Johnson',
       role: 'Lead Developer',
       company: 'InnovateCorp',
-      content: 'As a tech lead, I was skeptical about AI coding tools, but Operarius changed my mind. It handles the repetitive tasks while allowing our team to focus on complex architecture decisions.',
+      content: "As a tech lead, I was skeptical about AI coding tools, but Operarius changed my mind. It handles the repetitive tasks while allowing our team to focus on complex architecture decisions.",
       rating: 5,
       avatar: 'https://images.unsplash.com/photo-1494790108377-be9c29b29330?q=80&w=100&auto=format&fit=crop'
     },
@@ -43,7 +43,7 @@ const TestimonialCarousel = () => {
       name: 'Miguel Rodriguez',
       role: 'Solo Developer',
       company: 'Freelancer',
-      content: 'For independent developers like me, Operarius is like having a team of junior devs at your fingertips. It's helped me take on larger projects with confidence.',
+      content: "For independent developers like me, Operarius is like having a team of junior devs at your fingertips. It's helped me take on larger projects with confidence.",
       rating: 4,
       avatar: 'https://images.unsplash.com/photo-1599566150163-29194dcaad36?q=80&w=100&auto=format&fit=crop'
     }
